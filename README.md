@@ -6,4 +6,6 @@ Este repositório está sendo usado para armazenar todos os meus estudos sobre G
 
 Este repositório foi criado na aula 11, estou fazendo teste sobre autenticações. 
 
+1. segundo teste - TOKEN
 
+2. 
